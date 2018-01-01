@@ -1,4 +1,5 @@
 # Foo
 
-- Add GPG key.
+- Order this list by date DESC.
 - Save GPG pass to keychain.
+- Add GPG key.
